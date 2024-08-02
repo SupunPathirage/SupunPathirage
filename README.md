@@ -1,4 +1,4 @@
-[![MasterHead](https://leviarista.github.io/github-profile-header-generator/)
+[![MasterHead](https://i.gifer.com/origin/5a/5ab98406cc6c8fbba9ddb014c2bcdb80_w200.gif)]
 <h1 align="center">Hi 👋, I'm Supun Pathirage</h1>
 <h3 align="center">Studying Bachelor of Information Technology at University of Colombo</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/05f3a8f226db1e781153e6027d116959b3655fcee851e76827f42665abb682fd/68747470733a2f2f63646e2e766964656f706c617374792e636f6d2f616e696d6174696f6e2f6368696c6c2d636f64696e672d70726f6772616d6d696e672d6c6f2d66692d616e696d6174696f6e2d73746f636b2d616e696d6174696f6e2d32313837342d31303234783537362e6a7067">
